@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, this is Mahavir!
 
-I have been working in IoT and Embedded Systems domain. I am passionate about Open Source Software. Currently I am working with Espressif Systems and leading a small team of passionate system software engineers.
-
-- 🔭 Interested in Embedded Systems, System Software, Open Source technology
+- 🔭 Currently working at Espressif Systems, building connected devices
+- 🌱 Interested in Embedded Systems, System Software, Open Source technology
 - 📫 How to reach me: [Twitter](https://twitter.com/mahavirjain) | [Blog](https://medium.com/@mahavirj)
 - ⚡ Fun fact: Wrote small X86/ARM OS from scratch - [Tinyos](https://github.com/mahavirj/tinyos)
