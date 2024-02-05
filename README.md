@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, this is Mahavir!
 
-- 🔭 Currently working at Espressif Systems, building connected devices
+- 🔭 Currently working at Espressif Systems, building secure connected devices
 - 🌱 Interested in Embedded Systems, System Software, Open Source technology
 - 📫 How to reach me: [Twitter](https://twitter.com/mahavirjain) | [Blog](https://medium.com/@mahavirj)
 - ⚡ Fun fact: Wrote small X86/ARM OS from scratch - [Tinyos](https://github.com/mahavirj/tinyos)
